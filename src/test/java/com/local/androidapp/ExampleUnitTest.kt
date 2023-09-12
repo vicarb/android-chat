@@ -1,4 +1,4 @@
-package com.local.chat
+package com.local.androidapp
 
 import org.junit.Test
 
